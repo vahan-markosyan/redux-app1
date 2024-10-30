@@ -1,0 +1,32 @@
+{
+    "users": [ 
+    {
+        "id":101,
+        "name":"Vzgo",
+        "surname":"Petrosyan",
+        "age":27,
+        "city":"Yerevan"
+    },
+    {
+        "id":102,
+        "name":"Anna",
+        "surname":"Danielyan",
+        "age":30,
+        "city":"Yerevan"
+    },
+    {
+        "id":103,
+        "name":"Sona",
+        "surname":"Gasparyan",
+        "age":29,
+        "city":"Ejmiatsin"
+    },
+    {
+        "id":104,
+        "name":"Gugo",
+        "surname":"Sargsyan",
+        "age":26,
+        "city":"Gyumri"
+    }
+]
+}
